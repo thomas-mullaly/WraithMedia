@@ -1,0 +1,3 @@
+wraith_test_run(playbackengine playbackengine_test.cpp)
+wraith_test_run(servicemanager servicemanager_test.cpp)
+

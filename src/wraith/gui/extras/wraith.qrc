@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>styles/slider.qss</file>
+ </qresource>
+</RCC>

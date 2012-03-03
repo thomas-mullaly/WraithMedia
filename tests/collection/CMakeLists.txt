@@ -1,0 +1,1 @@
+wraith_test_run(MediaCollectionData MediaCollectionData.cpp)
